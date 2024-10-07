@@ -39,9 +39,9 @@ cd conversor-de-monedas
 
 4. Ejecuta el programa:
 
-
-
-    java -jar conversor-de-monedas.jar
+```
+java -jar conversor-de-monedas.jar
+```
 
 ## Uso
 
